@@ -1,0 +1,58 @@
+body{
+	text-align: center;
+}
+
+#firsthead{
+	font-family: 'bungee', cursive;
+	color: #19e85e;
+	width: 1300;
+	
+}
+
+#secondhead{
+	font-family: arial black;
+	color: white;
+	width: 1300;
+
+}
+
+#me{
+	color: white;
+	font-family: arial black;
+	float: right;
+	position:absolute;
+	text-align:left;
+	width: 500;
+	top: 170;
+	
+	
+	
+	
+}
+
+#me1{
+	width: 1500;
+	color: black;
+	font-family: arial black;
+	position: absolute;
+	top: 410;
+	
+	
+	
+}
+
+#me2{
+	width: 1500;
+	color: black;
+	font-family :arial black;
+	position: absolute;
+	top: 180;
+	
+}
+
+#cheesy{
+	position: absolute;
+	width: 1500;
+	top: 170;
+	
+}
