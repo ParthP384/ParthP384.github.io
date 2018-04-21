@@ -1,0 +1,119 @@
+body{
+	text-align: center;
+	
+}
+
+#logo{
+	position: absolute;
+	width: 1300;
+	top: 80;
+	
+}
+
+#caption{
+	font-family: 'bungee', cursive;
+	color: #19e85e;
+	font-size: 25px;
+	text-shadow: black;
+	float: center;
+	position:absolute;
+	width: 1300;
+	top: 500;
+}
+
+.menu {
+	background-color: #595959;
+	color: #ffffff;
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+	list-style: none;
+	padding: 20px 0 20px 0;
+	
+}
+
+
+.menu  > li {
+	display: inline-block;
+	padding-right: 50px;
+	font-family: arial;
+	
+	
+}
+
+.menu > li > a{
+	text-decoration: none;
+	color: ffffff;
+	
+	
+	
+}
+
+.menu:hover{
+opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+
+
+.menu > li > a:hover{
+	background-color: #595959;
+	color: #c1c1c1;
+	
+}
+
+.menu2{
+	position: absolute;
+	background-color: #595959;
+	list-style: none;
+	padding: 20px 0 20px 0;
+	text-decoration: none;
+	font-family: arial;
+	color: #ffffff;
+	opacity: 0;
+	
+	
+	
+}
+
+.menu2 > li{
+	padding: 15px;
+	font-family: arial;
+
+}
+
+.menu2 > li > a{
+	text-decoration: none; 
+	color: #ffffff;
+
+}
+
+.menu > li > a:hover .menu2  {
+	opacity: 100;
+	
+}
+
+#para{
+	font-family: arial black;
+	color: #ffffff;
+	position: absolute;
+	width: 650;
+	top: 650;
+	text-align: left;
+	
+
+}
+
+#cloud{
+	position: absolute;
+	width: 1600;
+	top: 650;
+	
+	
+	
+	
+	
+	
+	
+}
+
+
